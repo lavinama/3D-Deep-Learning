@@ -26,7 +26,7 @@ This is a PyTorch implementation of ["PointNet: Deep Learning on Point Sets for 
 </table>
 </div> 
 
-Structure of `PointNet.ipynb`:
+### Structure of `PointNet.ipynb`:
 1. Process a 3D point cloud dataset
 2. Visualise the datase in 3D
 3. Build a 3D deep learning model
